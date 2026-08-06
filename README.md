@@ -38,7 +38,7 @@
 
   <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/>
+      <a href="https://www.freeiconspng.com/img/3392" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/microsoft-office-mac-tilt-excel-icon-17.png" width="350" alt="Microsoft Office Mac Tilt Excel Icon" /></a>
   </a>
 
   <!-- Power BI -->
