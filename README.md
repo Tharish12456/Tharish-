@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **python,SQL, advance excel and powerbi, python libraries numpy,pandas and matplolib**  
 
-- 📫 How to reach me **tharishkumar@gmail.com**
+- 📫 How to reach me **bangaru tharishkumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
