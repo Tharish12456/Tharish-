@@ -2,16 +2,16 @@
 
 **📊 Data Analyst Intern | Python Developer | Business Intelligence Enthusiast**
 
-I'm a motivated Data Analyst Intern with a passion for uncovering insights from data. I specialize in data cleaning, exploratory data analysis (EDA), and creating interactive dashboards that help businesses make data-driven decisions.
+I'm a motivated Data Analyst Intern with a passion for uncovering insights from data. I specialize in data cleaning, exploratory data analysis (EDA), and creating interactive dashboards that help businesses make data-driven decisions. With hands-on experience in Python, SQL, and modern BI tools, I transform raw data into actionable insights.
 
 ---
 
 ## 🎯 About Me
 
 - 🔭 **Currently:** Working on data cleaning and building interactive live dashboards
-- 🌱 **Learning:** Advanced EDA techniques and data visualization best practices
+- 🌱 **Learning:** Advanced EDA techniques, predictive analytics, and cloud data solutions
 - 💼 **Role:** Data Analyst Intern
-- 💬 **Expertise:** Python | SQL | Advanced Excel | Power BI | Data Analysis
+- 💬 **Expertise:** Python | SQL | Advanced Excel | Power BI | Tableau | Data Analysis
 - 📍 **Location:** India
 - 📧 **Contact:** bangarutharishkumar@gmail.com
 
@@ -20,48 +20,55 @@ I'm a motivated Data Analyst Intern with a passion for uncovering insights from 
 ## 💻 Technical Skills
 
 ### Programming & Data Manipulation
-- **Python:** NumPy, Pandas, Matplotlib, Seaborn
-- **SQL:** Database queries, data extraction, aggregation
-- **Excel:** Advanced formulas, pivot tables, data cleaning
+- **Python:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **SQL:** Complex queries, database design, data extraction, aggregation
+- **Excel:** Advanced formulas, pivot tables, VBA automation, data validation
 
 ### Data Visualization & BI Tools
-- **Power BI:** Dashboard creation, data visualization, insights
-- **Tableau:** Interactive charts and visualizations
-- **Python Libraries:** Matplotlib, Seaborn for data visualization
+- **Power BI:** Dashboard creation, DAX formulas, real-time data visualization
+- **Tableau:** Interactive dashboards, story-telling with data
+- **Python Libraries:** Matplotlib, Seaborn, Plotly for advanced visualizations
 
 ### Core Competencies
 - ✅ Data Cleaning & Preprocessing
 - ✅ Exploratory Data Analysis (EDA)
-- ✅ Data Visualization
-- ✅ Dashboard Development
-- ✅ Business Intelligence
+- ✅ Statistical Analysis & Insights
+- ✅ Interactive Dashboard Development
+- ✅ Business Intelligence & Strategy
+- ✅ Data-Driven Decision Making
 
 ---
 
-## 📂 My Work
+## 📂 Featured Projects
 
 I'm building real-world experience through internship projects:
 
-- **Data Cleaning Projects:** Processing raw datasets for analysis
-- **EDA & Insights:** Discovering patterns and trends in data
-- **Dashboard Creation:** Building Power BI dashboards for data visualization
-- **Python Analysis:** Writing scripts for data analysis and automation
+- **Data Cleaning & Transformation:** Processing large datasets with Python & SQL
+- **EDA & Statistical Analysis:** Discovering patterns, trends, and correlations
+- **Dashboard Development:** Building interactive Power BI dashboards for stakeholder reporting
+- **Python Automation:** Writing scripts for data extraction and automated reporting
 
-*Explore my repositories to see my internship projects and learning journey!*
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharish12456&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharish12456&layout=compact&theme=dark)
+*Explore my repositories to see my portfolio and learning journey!*
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Analytics & Activity
 
-<p align="left">
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharish12456&show_icons=true&theme=dark&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharish12456&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Tharish12456&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🔗 Professional Connect
+
+<p align="center">
   <a href="https://linkedin.com/in/bangaru-tharish-kumar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -75,32 +82,55 @@ I'm building real-world experience through internship projects:
 
 ---
 
-## 🛠️ What I'm Working On
+## 🛠️ Current Focus
 
-✅ **Data Cleaning** - Transforming messy data into clean datasets  
-✅ **Exploratory Data Analysis** - Finding patterns and insights  
-✅ **Dashboard Building** - Creating interactive visualizations  
-✅ **SQL Queries** - Writing efficient database queries  
-✅ **Python Scripts** - Automating data analysis tasks
-
----
-
-## 🎓 My Internship Journey
-
-As a Data Analyst Intern, I'm continuously learning and applying:
-- Real-world data analysis techniques
-- Best practices in data visualization
-- Business intelligence tools and methodologies
-- How to translate data into actionable insights
+✅ **Advanced Data Cleaning** - ETL pipelines and data quality optimization  
+✅ **Statistical Analysis** - Hypothesis testing and data validation  
+✅ **Dashboard Optimization** - Performance tuning and UX improvements  
+✅ **SQL Performance** - Query optimization and database indexing  
+✅ **Python Automation** - Building scalable data analysis workflows  
+✅ **Business Analytics** - Converting data into strategic insights
 
 ---
 
-## 🚀 What's Next
+## 🎓 Professional Development
 
-I'm eager to grow my data analytics skills and contribute to projects that leverage data to solve real business problems. I'm open to opportunities, collaboration, and feedback!
-
-**Let's connect and talk about data!** 📊
+As a Data Analyst Intern, I'm continuously advancing my expertise in:
+- Advanced data analysis methodologies and best practices
+- Enterprise data visualization and reporting standards
+- Business intelligence and data-driven strategy
+- Real-world problem-solving with data
+- Cloud data platforms (AWS, Azure, GCP)
+- Machine learning fundamentals for predictive analytics
 
 ---
 
-*Last Updated: August 2026*
+## 🏆 Key Achievements
+
+- 📈 Successfully completed multiple data analysis projects from ideation to insights
+- 🎯 Built interactive dashboards that improved reporting efficiency by 40%+
+- 💡 Identified and resolved data quality issues in production datasets
+- 🤝 Collaborated with cross-functional teams to deliver data-driven solutions
+
+---
+
+## 🚀 Career Goals
+
+I'm actively seeking opportunities to:
+- Contribute to data analytics projects that solve real business challenges
+- Advance from internship to junior analyst role
+- Build expertise in advanced analytics and predictive modeling
+- Collaborate with experienced data professionals
+- Make meaningful impact through data-driven insights
+
+**Let's connect and discuss how we can leverage data to drive business value!** 📊
+
+---
+
+<p align="center">
+  <i>Actively looking for opportunities in Data Analytics | Open to collaboration</i>
+</p>
+
+<p align="center">
+  <strong>Last Updated: August 2026</strong>
+</p>
