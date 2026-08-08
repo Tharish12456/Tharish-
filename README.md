@@ -56,11 +56,16 @@ I'm building real-world experience through internship projects:
 
 <div align="center">
 
+### 📈 My GitHub Statistics
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharish12456&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharish12456&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tharish12456&theme=dark&hide_border=true)
+
+### 📧 Get in Touch
+**Email:** [bangarutharishkumar@gmail.com](mailto:bangarutharishkumar@gmail.com)
 
 </div>
 
