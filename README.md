@@ -2,7 +2,7 @@
 
 **📊 Data Analyst Intern | Python Developer | Business Intelligence Enthusiast**
 
-I'm a motivated Data Analyst Intern with a passion for uncovering insights from data. I specialize in data cleaning, exploratory data analysis (EDA), and creating interactive dashboards that help businesses make data-driven decisions. With hands-on experience in Python, SQL, and modern BI tools, I transform raw data into actionable insights.
+I'm a motivated Data Analyst Intern with a passion for uncovering insights from data. I specialize in data cleaning, exploratory data analysis (EDA), and creating interactive dashboards that help businesses make data-driven decisions.
 
 ---
 
@@ -49,25 +49,6 @@ I'm building real-world experience through internship projects:
 - **Python Automation:** Writing scripts for data extraction and automated reporting
 
 *Explore my repositories to see my portfolio and learning journey!*
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-### 📈 My GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharish12456&show_icons=true&theme=dark&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharish12456&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Tharish12456&theme=dark&hide_border=true)
-
-### 📧 Get in Touch
-**Email:** [bangarutharishkumar@gmail.com](mailto:bangarutharishkumar@gmail.com)
-
-</div>
 
 ---
 
